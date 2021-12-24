@@ -1,6 +1,6 @@
 # Sanmple_Attendance
 
-Application 
+## Application 
 
 * Reading - done
 * Calculating attendance percentage
@@ -22,7 +22,7 @@ Main
 * Attendance shortage
 
 
-given:
+## given:
 
 No.of days = 3
 
@@ -31,7 +31,7 @@ No.of days = 3
 
 
 
-DESIGN.
+## DESIGN.
 
 OR 
 
@@ -39,7 +39,7 @@ HLR
 LLR
 
 
-TEAM SPLIT:
+## TEAM SPLIT:
 
 T1 = Janarthan and Gopal - Sorting 
 T2 = Prudhvi and Dhanush - Calcualation
