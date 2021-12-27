@@ -82,9 +82,9 @@ One can use either of these systems for maintaining the attendance record of the
 |LLR1_HLR_1|Excel sheet containing collected data /sample sheet creation |Implemented|
 |LLR2_HLR_1|addding rows and columns as per the reguirement|Implemented|
 |LLR2_HLR_1|updating sheet and adding rows and columns if needed |Implemented|
-|LLR1_HLR_2|output sheet with rows and columns for display of each class |Implemented|
-|LLR2_HLR_2|Arithmatic operation for average calculation|Implemented|
-|LLR2_HLR_2|Filtering data from previous excel sheet and concating to the output sheet |Implemented|
+|LLR1_HLR_5|output sheet with rows and columns for display of each class |Implemented|
+|LLR2_HLR_3|Arithmatic operation for average calculation|Implemented|
+|LLR2_HLR_6|Filtering data from previous excel sheet and concating to the output sheet |Implemented|
 
 ## Application
 
