@@ -58,7 +58,7 @@ One can use either of these systems for maintaining the attendance record of the
 Strength
 * Payroll Integration
 * Accuracy and reliability
-* Mobile Accessibility
+* Leave requests
 
 
 
