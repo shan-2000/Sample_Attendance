@@ -2,7 +2,7 @@
 
 # INTRODUCTION :
 
-* An attendance management system is a technique for keeping track of your employees' working hours. You can do that by using tracking software, spreadsheets, punching time cards, and more.
+* An attendance management system is a technique for keeping track of your employees' working hours. we can do that by using tracking software, spreadsheets, punching time cards, and more.
 * An automatic attendance system is an educational ERP system that records the students' attendance in an institution. Unlike the conventional attendance system, 
 the automatic attendance software enables the faculty to record, store, and monitor students' attendance history & manage the classroom efficiently.
 * If you’re a business that believes your employees are your most precious asset, then you’ll do everything in your power to make sure their work informs how your business operates. 
