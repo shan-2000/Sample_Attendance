@@ -43,7 +43,7 @@ One can use either of these systems for maintaining the attendance record of the
                
 ## 4W and 1H:
 
-### __WHO:__ 
+### __WHY:__ 
 
 ### __WHAT:__
 
