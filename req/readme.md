@@ -1,10 +1,14 @@
 # ATTENDANCE AUTOMATION USING PYTHON:
 
 # INTRODUCTION :
-An automatic attendance system is an educational ERP system that records the students' attendance in an institution. Unlike the conventional attendance system, 
+
+* An attendance management system is a technique for keeping track of your employees' working hours. You can do that by using tracking software, spreadsheets, punching time cards, and more.
+* An automatic attendance system is an educational ERP system that records the students' attendance in an institution. Unlike the conventional attendance system, 
 the automatic attendance software enables the faculty to record, store, and monitor students' attendance history & manage the classroom efficiently.
-If you’re a business that believes your employees are your most precious asset, then you’ll do everything in your power to make sure their work informs how your business operates. Tracking employee time and attendance is one of the best tools in your toolbox for improving productivity and efficiency. 
-Gone are manual timekeeping systems that are prone to tedious timesheet review and payroll errors. Today’s modern companies are using advancements in timekeeping technology to keep track of employees’ work hours and are taking advantage of the benefits of time and attendance management systems to take their businesses to the next level. 
+* If you’re a business that believes your employees are your most precious asset, then you’ll do everything in your power to make sure their work informs how your business operates. 
+* Tracking employee time and attendance is one of the best tools in your toolbox for improving productivity and efficiency. 
+Gone are manual timekeeping systems that are prone to tedious timesheet review and payroll errors. 
+* Today’s modern companies are using advancements in timekeeping technology to keep track of employees’ work hours and are taking advantage of the benefits of time and attendance management systems to take their businesses to the next level. 
 
 ## Objective:
 ### - Goal of a project
@@ -20,28 +24,22 @@ Gone are manual timekeeping systems that are prone to tedious timesheet review a
  * Arithmetic Operation on Spreadsheet(adding , mean calculation )
  * Adjusting Rows and Column
  * filtering and concat 
-
-
-
-
- 
 ## Research:
 
- 
-             Existing                                          Implemented
-             * In earlier stage their is                       * The main aim of our project is 
-              no innovation about automation                     to save an driver and passengers 
-             So it would became impossible                       from the accident when they use to travel
-             to help human from accident while                    with sleepiness.
-             driving.                                            *The device continuously monitors the driver 
-                                                                 eye blinking rate If it detects the drowsiness in person.
-             * Not even invented any different types
-             of vehicle like nowadays with all facilities.                   
-                                                                   *The sensor has to turn on alarm/beep.And the heartbeat rate also 
-                                                                   detects the heartbeat of the person who use to drive with some heart problem
-                                                                   so that it saves his/her life.Gsm module has to send imediate message to blood relatives will 
-                                                                   be implemented in future.If all the above requirements meets their condition it should stop the
-                                                                   vehicle immediately.
+### Manual vs Automated Attendance System
+
+There are two kinds of attendance system a company can choose from, i.e. manual or automated. The traditional attendance tracking method includes punch locks or some other sort of manual system. However, this method requires consistent human supervision. But fortunately, the evolving technology has led to the introduction of the automated attendance system that provides much better results. 
+
+One can use either of these systems for maintaining the attendance record of the employees; however, just like every coin, there’s a good and bad side to both. It is because of this reason that most of the companies get confused and are unable to decide whether they should use an automated or a manual attendance system. 
+
+### Automated Attendance System – Pros and Cons:
+* Provides accurate results
+* Helps in administrative tasks
+* Saves money, improves the productivity of the employees
+### Manual Attendance System- Pros and Cons 
+* Possible human errors
+* Speed
+             
                
 ## 4W and 1H:
 
@@ -58,7 +56,7 @@ Gone are manual timekeeping systems that are prone to tedious timesheet review a
 ## SWOT Analysis
 ### - A study undertaken by an organization to identify its internal strengths and weaknesses, as well as its external opportunities and threats
 
-![SWOT](https://user-images.githubusercontent.com/94435852/146313765-bc7fda2d-e778-4258-aea6-2e9fd74e35c9.PNG)
+
 
 
 ## High level requirements
@@ -66,12 +64,14 @@ Gone are manual timekeeping systems that are prone to tedious timesheet review a
 
 |HLR ID|Description|Implemented/Future|
 |------|-----------|------------------|
-|HLR_1|When ever driver is drowsy, an alarm needs to be triggered|Implemented|
-|HLR_2|When Vehicle catches fire, windows need to be opened automatically|Implemented|
-|HLR_3|If driver consumes alcohol,vehicle has to be automatically stop|Implemented|
-|HLR_4|If the GSM module get failure it need not send messages|Future|
-|HLR_5|Heart beat sensor very much need for heart patient,workers of thermal station and fire service workers|Future|
-|HLR_6|Incase if heart beat rate is too high of passengers or person inside vehicle due to anxiesty attack the gsm module has to respond immediately by sending message|Future|
+|HLR_1|reading and writing spreadsheets |Implemented|
+|HLR_2|search rows and columns |Implemented|
+|HLR_3|average calculation |Implemented|
+|HLR_4|sorting rows  |Implemented |
+|HLR_5|creating output spreadsheet |Implemented |
+|HLR_6|filter and concating from previous excel sheet and store it in ouput sheet |Implemented |
+|HLR_7|Plotting Charts |Implemented |
+
 
 
 ## Low level requirements
