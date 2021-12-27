@@ -43,9 +43,9 @@ One can use either of these systems for maintaining the attendance record of the
                
 ## 4W and 1H:
 
-### __WHY:__ you can drastically save time and effort in keeping track of your employees
+### __WHY:__ You can drastically save time and effort in keeping track of your employees
 
-### __WHAT:__ helps HR department to see who is clocked in and at what time
+### __WHAT:__ Helps HR department to see who is clocked in and at what time
 
 ### __WHEN:__
 
