@@ -49,9 +49,9 @@ One can use either of these systems for maintaining the attendance record of the
 
 ### __WHEN:__
 
-### __WHERE:__  Small,medium and large business
+### __WHERE:__  Small,medium and large business or schools and college
 
-### __HOW:__
+### __HOW:__ Records the student or employees attendance in an work place
 
 ## SWOT Analysis
 ### - A study undertaken by an organization to identify its internal strengths and weaknesses, as well as its external opportunities and threats
