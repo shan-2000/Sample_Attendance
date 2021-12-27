@@ -79,18 +79,13 @@ One can use either of these systems for maintaining the attendance record of the
 
 |LLR ID|Description|Implemented/Implemented|
 |------|-----------|------------------|
-|LLR1_HLR_1|An eye blink sensor has to continuously monitor eye blinking|Implemented|
-|LLR2_HLR_1|When eye blinking rate is high then alarm need to be triggered|Implemented|
-|LLR2_HLR_1|An warning message has to be displayed on the LCD display|Implemented|
-|LLR1_HLR_2|A fire sensor that connected to the microcontroller continiously moniter the temparature|Implemented|
-|LLR2_HLR_2|The temparature sensor has to be connected to the window control.|Implemented|
-|LLR3_HLR_2|When temparature is too high, it has to consider that fire present in vehicle and give input to the window control|Implemented|
-|LLR4_HLR_2|After taking the input from fire sensor, windows control has to open the windows|Implemented|
-|LLR1_HLR_3|A alcohol sensor conneted to the microcontroller continuosly moniter the alcohol presence in vehicle|Implemented|
-|LLR2_HLR_3|If the alcohol gas  detected then it gives input to the ignition relay|Implemented|
-|LLR3_HLR_3|Than ignition relay has off so the vehicle stoped automatically|Implemented|
-|LLR3_HLR_4|If Fire sensor detects the temperature rate or it might get fire that sensor has to send signal GSM to send message to near by fire service|Future|
-|LLR3_HLR_5|If Heart beat sensor detects the Heart beat rate high or it might get lo
+|LLR1_HLR_1|Excel sheet containing collected data /sample sheet creation |Implemented|
+|LLR2_HLR_1|addding rows and columns as per the reguirement|Implemented|
+|LLR2_HLR_1|updating sheet and adding rows and columns if needed |Implemented|
+|LLR1_HLR_2|output sheet with rows and columns for display of each class |Implemented|
+|LLR2_HLR_2|Arithmatic operation for average calculation|Implemented|
+|LLR2_HLR_2|Filtering data from previous excel sheet and concating to the output sheet |Implemented|
+
 ## Application
 
 
@@ -106,7 +101,6 @@ One can use either of these systems for maintaining the attendance record of the
 
 
 
- ## Disadvantages
 
  
 
