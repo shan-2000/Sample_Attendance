@@ -45,7 +45,7 @@ One can use either of these systems for maintaining the attendance record of the
 
 ### __WHY:__ you can drastically save time and effort in keeping track of your employees
 
-### __WHAT:__
+### __WHAT:__ helps HR department to see who is clocked in and at what time
 
 ### __WHEN:__
 
@@ -55,6 +55,10 @@ One can use either of these systems for maintaining the attendance record of the
 
 ## SWOT Analysis
 ### - A study undertaken by an organization to identify its internal strengths and weaknesses, as well as its external opportunities and threats
+Strength
+* Payroll Integration
+* Accuracy and reliability
+* Mobile Accessibility
 
 
 
