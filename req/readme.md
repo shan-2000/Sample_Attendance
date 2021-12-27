@@ -88,7 +88,7 @@ One can use either of these systems for maintaining the attendance record of the
 
 ## Application
 *  This system can be used for schools,colleges,universities for tacking down attendance
-*  This system can be used during parents meeting to show parents about their children's attendance performance
+*  small,medium and large  business
 
 
 
