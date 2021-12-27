@@ -47,7 +47,7 @@ One can use either of these systems for maintaining the attendance record of the
 
 ### __WHAT:__ Helps HR department to see who is clocked in and at what time
 
-### __WHEN:__
+### __WHEN:__ For working days 
 
 ### __WHERE:__  Small,medium and large business or schools and college
 
