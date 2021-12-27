@@ -49,7 +49,7 @@ One can use either of these systems for maintaining the attendance record of the
 
 ### __WHEN:__
 
-### __WHERE:__
+### __WHERE:__  Small,medium and large business
 
 ### __HOW:__
 
@@ -92,7 +92,6 @@ Strength
 
 ## Application
 *  This system can be used for schools,colleges,universities for tacking down attendance
-*  small,medium and large  business
 
 
 
