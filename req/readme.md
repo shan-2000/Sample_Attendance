@@ -59,7 +59,10 @@ Strength
 * Payroll Integration
 * Accuracy and reliability
 * Leave requests
-
+opportunities
+ * Employees or anyone else can modify confidential attendance data easily
+threats
+ * Employees who don’t always write down their true time worked.
 
 
 
