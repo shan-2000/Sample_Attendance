@@ -59,10 +59,12 @@ Strength
 * Payroll Integration
 * Accuracy and reliability
 * Leave requests
+weaknesses
+ * Incorrect Entry of Times
 opportunities
  * Employees or anyone else can modify confidential attendance data easily
 threats
- * Employees who don’t always write down their true time worked.
+ * Employees who don’t always write down their true time worked
 
 
 
